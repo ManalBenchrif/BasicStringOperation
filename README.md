@@ -2,6 +2,7 @@
 
 Strings are bits of text. They can be defined as anything between quotes.in this repesitory we will se how to :
 
+
 1. print lenght of a string
 
 2.print the location of the first occurrence of a letter
